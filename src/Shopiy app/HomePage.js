@@ -19,7 +19,7 @@ import './media.css'
 
 
 function HomePage() {
-    let Navigate = useNavigate();
+    
   return (
     <div className='bg-warning-subtle overflow-x-auto'>
         {/* navbar */}
