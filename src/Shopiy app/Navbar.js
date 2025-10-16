@@ -1,5 +1,5 @@
-import React, { useState } from 'react'
-import { NavLink, Route, Routes, useNavigate } from 'react-router-dom'
+import React from 'react'
+import { NavLink, useNavigate } from 'react-router-dom'
 
 
 function Navbar() {

@@ -8,7 +8,7 @@ function Bags() {
     <h1 className='text-center text-danger fw-bold text-decoration-underline'>Girls And Boys Bags</h1>
     <header className="bg-info py-5">
            <div className="container px-4 px-lg-5 my-5">
-        <marquee><h1 className='fw-bold text-warning-emphasis fst-italic text-decoration-underline'>Holi Specel Offer 70% off</h1></marquee>
+        <h1 className='fw-bold text-warning-emphasis fst-italic text-decoration-underline'>Holi Specel Offer 70% off</h1>
                <div className="text-center text-white">
                    <h1 className="display-4 fw-bolder">Top Bag Girls And Boys And Childern</h1>
                    <p className="lead fw-normal text-white-50 mb-0">With this shop hompeage template</p>
@@ -32,7 +32,7 @@ function Bags() {
                                 </div>
                             </div>
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="#">View options</a></div>
+                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="/option">View options</a></div>
                             </div>
                         </div>
                     </div>
@@ -61,7 +61,7 @@ function Bags() {
                             </div>
                         
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div className="text-center"><a className="btn btn-outline-dark mt-auto " href="#">Add to cart</a></div>
+                                <div className="text-center"><a className="btn btn-outline-dark mt-auto " href="/cart">Add to cart</a></div>
                             </div>
                         </div>
                     </div>
@@ -83,7 +83,7 @@ function Bags() {
                              </div>
                         
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="#">Add to cart</a></div>
+                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="/cart">Add to cart</a></div>
                             </div>
                         </div>
                     </div>
@@ -110,7 +110,7 @@ function Bags() {
                             </div>
                             
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="#">Add to cart</a></div>
+                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="/cart">Add to cart</a></div>
                             </div>
                         </div>
                     </div>
@@ -135,7 +135,7 @@ function Bags() {
                                 </div>
                             </div>
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="#">View options</a></div>
+                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="/option">View options</a></div>
                             </div>
                         </div>
                     </div>
@@ -164,7 +164,7 @@ function Bags() {
                             </div>
                         
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div className="text-center"><a className="btn btn-outline-dark mt-auto " href="#">Add to cart</a></div>
+                                <div className="text-center"><a className="btn btn-outline-dark mt-auto " href="/cart">Add to cart</a></div>
                             </div>
                         </div>
                     </div>
@@ -186,7 +186,7 @@ function Bags() {
                              </div>
                         
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="#">Add to cart</a></div>
+                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="/cart">Add to cart</a></div>
                             </div>
                         </div>
                     </div>
@@ -213,7 +213,7 @@ function Bags() {
                             </div>
                             
                             <div className="card-footer p-4 pt-0 border-top-0 bg-transparent">
-                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="#">Add to cart</a></div>
+                                <div className="text-center"><a className="btn btn-outline-dark mt-auto" href="/cart">Add to cart</a></div>
                             </div>
                         </div>
                     </div>

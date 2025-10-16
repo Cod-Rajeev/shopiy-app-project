@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link, NavLink, Navigate, Route, Routes, useNavigate } from 'react-router-dom'
+import {NavLink, Route, Routes, useNavigate } from 'react-router-dom'
 import HomePage2 from './HomePage2'
 import Male from './Male';
 import BoyCloth from './BoyCloth';
