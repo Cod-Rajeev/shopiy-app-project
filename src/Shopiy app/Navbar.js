@@ -9,10 +9,7 @@ function Navbar() {
   return (
     <>
      <div>
-     {/* <marquee><h1 className='fw-bold text-danger fst-italic'> )-:) Holi Specel Offer 70% off</h1></marquee>
-     <marquee><h1 className='fw-bold text-danger fst-italic'> )-:) Holi Specel Offer<span className=" text-decoration-line-through"> 49%</span> 70% off</h1></marquee>
-     <marquee><h1 className='fw-bold text-danger fst-italic'> )-:) Holi Specel Offer<span className=" text-decoration-line-through"> 49%</span> 70% off</h1></marquee>
-      */}
+    
         <nav className="navbar navbar-expand-lg navbar-light bg-warning ">
           <h1 className='fw-bold text-warning-emphasis fst-italic text-decoration-underline'>&#10224;Shopiy</h1>
             <div className="container px-4 px-lg-5">

@@ -12,7 +12,7 @@ function Male() {
    <h1 className='text-center text-danger fw-bold text-decoration-underline'>Male Cloth</h1>
    <header className="bg-info py-5">
            <div className="container px-4 px-lg-5 my-5">
-        <marquee><h1 className='fw-bold text-warning-emphasis fst-italic text-decoration-underline'>Holi Specel Offer 70% off</h1></marquee>
+    <h1 className='fw-bold text-warning-emphasis fst-italic text-decoration-underline'>Holi Specel Offer 70% off</h1>
                <div className="text-center text-white">
                    <h1 className="display-4 fw-bolder">Top Man  Cloth </h1>
                    <p className="lead fw-normal text-white-50 mb-0">Mad in India</p>

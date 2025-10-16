@@ -35,16 +35,14 @@ function HomePage() {
     <Routes>
         <Route path='/' element={<>
            
-          {/* <marquee><h1 className='fw-bold text-danger fst-italic'> )-:) Holi Specel Offer 70% off</h1></marquee>
-          <marquee><h1 className='fw-bold text-danger fst-italic'> )-:) Holi Specel Offer<span className=" text-decoration-line-through"> 49%</span> 70% off</h1></marquee>
-      */}
+         
       <div >
      
     <div className="media-container mx-auto m-2  d-flex ">
         <h1 className='text-black p-9 '>Lowest Prices Best Quality Shopping</h1>
         {/* <h1 className='text-black  mt-5 mb-auto'>Best Quality Shopping</h1> */}
 
-    <marquee><h1 className='fw-bold text-danger fst-italic'> )-:) Holi Specel Offer<span className=" text-decoration-line-through"> 49%</span> 70% off</h1></marquee>
+    <h1 className='fw-bold text-danger fst-italic'> )-:) Holi Specel Offer<span className=" text-decoration-line-through"> 49%</span> 70% off</h1>
 
      <img src='https://img.freepik.com/free-photo/black-friday-elements-assortment_23-2149074076.jpg?w=826&t=st=1710500371~exp=1710500971~hmac=8a65e305e881ca809817336ff6830c73df7034ae7315677aa5fb7d9d7f1f31b5'className='img1'/>
      

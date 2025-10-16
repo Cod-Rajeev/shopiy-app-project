@@ -9,7 +9,7 @@ function Kids() {
     <h1 className='text-center text-danger fw-bold text-decoration-underline'> welcome to kids cloth pen and shirt</h1>
     <header className="bg-info py-5">
            <div className="container px-4 px-lg-5 my-5">
-        <marquee><h1 className='fw-bold text-warning-emphasis fst-italic text-decoration-underline'>Holi Specel Offer 70% off</h1></marquee>
+        <h1 className='fw-bold text-warning-emphasis fst-italic text-decoration-underline'>Holi Specel Offer 70% off</h1>
                <div className="text-center text-white">
                    <h1 className="display-4 fw-bolder">Top Kids Wear</h1>
                    <p className="lead fw-normal text-white-50 mb-0">With this shop hompeage template</p>
@@ -118,7 +118,7 @@ function Kids() {
          
                    </div>
             </div>
-            <marquee><h1 className='fw-bold text-warning'>Top Fashion Kids Wear</h1></marquee>
+            <h1 className='fw-bold text-warning'>Top Fashion Kids Wear</h1>
        
             <div className="container px-4 px-lg-5 mt-5">
                 <div className="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
