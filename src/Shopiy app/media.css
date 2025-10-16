@@ -1,0 +1,13 @@
+.media-container {
+    max-width: 100%; /* Set the maximum width for your media container */
+  }
+  
+  .img1{
+    max-width: 60%; /* Ensure the media does not exceed its container */
+    
+  }
+
+  .img2{
+    max-width: 100%; /* Ensure the media does not exceed its container */
+    
+  }
